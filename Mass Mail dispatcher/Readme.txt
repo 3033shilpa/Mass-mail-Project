@@ -64,11 +64,8 @@ The Mass Mail Dispatcher project uses the following dependencies:
 ---------------------------------------------------------------------------------------------
 Project By - "Shilpa Pandey "
 
-@ E X P O S Y S _ D A T A _ L A B S
 
-@ W E B _ D E V E L O P M E N T
 
-@ 2 2 / 0 2 / 2 0 2 3
 
 
 ==============================================================================================
